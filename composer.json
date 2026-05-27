@@ -1,10 +1,16 @@
 {
-    "name": "enjoping/dxfighter",
+    "name": "thovex-ltd/dxfighter",
+    "description": "PHP library for generating DXF (CAD) files — write polylines, layers, text, and basic geometry. Maintained fork of enjoping/dxfighter.",
     "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Joe Pietler",
-            "email": "enjoping@gmail.com"
+            "email": "enjoping@gmail.com",
+            "role": "Original author"
+        },
+        {
+            "name": "Thovex Ltd",
+            "homepage": "https://github.com/Thovex-Ltd"
         }
     ],
     "require": {
